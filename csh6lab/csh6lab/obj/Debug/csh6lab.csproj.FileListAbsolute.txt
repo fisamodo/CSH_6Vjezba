@@ -1,0 +1,13 @@
+C:\Users\Korisnik\source\repos\csh6lab\csh6lab\obj\Debug\csh6lab.csprojAssemblyReference.cache
+C:\Users\Korisnik\source\repos\csh6lab\csh6lab\obj\Debug\csh6lab.Greska.resources
+C:\Users\Korisnik\source\repos\csh6lab\csh6lab\obj\Debug\csh6lab.Kraj.resources
+C:\Users\Korisnik\source\repos\csh6lab\csh6lab\obj\Debug\csh6lab.LogIn.resources
+C:\Users\Korisnik\source\repos\csh6lab\csh6lab\obj\Debug\csh6lab.PregledKnjiga.resources
+C:\Users\Korisnik\source\repos\csh6lab\csh6lab\obj\Debug\csh6lab.Properties.Resources.resources
+C:\Users\Korisnik\source\repos\csh6lab\csh6lab\obj\Debug\csh6lab.csproj.GenerateResource.cache
+C:\Users\Korisnik\source\repos\csh6lab\csh6lab\bin\Debug\csh6lab.exe.config
+C:\Users\Korisnik\source\repos\csh6lab\csh6lab\bin\Debug\csh6lab.exe
+C:\Users\Korisnik\source\repos\csh6lab\csh6lab\bin\Debug\csh6lab.pdb
+C:\Users\Korisnik\source\repos\csh6lab\csh6lab\obj\Debug\csh6lab.exe
+C:\Users\Korisnik\source\repos\csh6lab\csh6lab\obj\Debug\csh6lab.pdb
+C:\Users\Korisnik\source\repos\csh6lab\csh6lab\obj\Debug\csh6lab.Form1.resources
